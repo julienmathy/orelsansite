@@ -1,0 +1,72 @@
+main h1{
+    text-align: center;
+    font-size: 3rem;
+    padding-top: 3rem;
+}
+main video{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+main section{
+    display: flex;
+    justify-content: center;
+    margin: 3rem;
+}
+main section .texte{
+    width: 40%;
+    padding: 0rem 2rem;
+}
+main section .texte h1{
+    padding: 0;
+    padding-bottom: 1rem;
+}
+main section .description{
+    background-color: darkred;
+    width: 20%;
+    color: white;
+}
+main section .description img{
+    border-radius: 1000rem;
+    width: 85%;
+    margin: auto;
+    display: flex;
+    padding: 1rem;
+}
+main section .description h2{
+    text-align: center;
+    padding-bottom: 1rem;
+}
+main section .description p{
+    padding: 0rem 2rem;
+}
+main section .description p span{
+    color: black;
+}
+main nav{
+    margin-top: 4rem;
+}
+main nav a{
+    color:darkred;
+    text-decoration: none;
+    border:darkred solid 1px;
+    padding: .3rem;
+}
+main .discographie{
+    display: flex;
+    flex-direction: column;
+}
+main .discographie p{
+    text-align: center;
+}
+main .discographie .album{
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 3rem;;
+}
+main .discographie .album img{
+    width: 12%;
+    padding: .2rem;
+}
