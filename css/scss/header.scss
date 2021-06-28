@@ -28,3 +28,14 @@ header nav ul li a.active{
     color: black;
     padding:1rem;
 }
+header aside ul li{
+    list-style-type:none;
+    padding: 2.5rem;
+}
+header aside ul li img{
+    text-decoration: none;
+    width: 4rem;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+}
